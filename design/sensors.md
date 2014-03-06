@@ -1,7 +1,6 @@
-
-|SENSOR|RACK LOCATION|COMMUNICATION PROTOCOL|DATASHEET|
-|-|-|-|-|
-GPS NEO6M | TOP | SERIAL | ( DATASHEET [http://www.rlocman.ru/i/File/2011/04/22/1.pdf])
+|  SENSOR  | RACK LOCATION | COMMUNICATION PROTOCOL | DATASHEET                                                   |
+|----------|---------------|------------------------|-------------------------------------------------------------|
+|GPS NEO6M | TOP           | SERIAL                 | ( DATASHEET [http://www.rlocman.ru/i/File/2011/04/22/1.pdf])|
 
 
 
